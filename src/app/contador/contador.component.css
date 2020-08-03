@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Play-Regular;
+    src: url('../../Play-Regular.ttf');
+}
+div{
+    height: 100%;
+}
+h2{
+    font-family: Play-Regular;
+    font-size: 50pt;
+    color: white;
+}
